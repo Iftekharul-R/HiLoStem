@@ -3,7 +3,7 @@ HiLoStem: A Resolution-Preserving Stem for VHR Remote Sensing Image Segmentation
 
 ## Datasets
 
-We evaluate HiLoFormer on three public benchmark dataset:
+We evaluate HiLoFormer on a public benchmark dataset:
 
 - [ISPRS Potsdam](https://www.isprs.org/resources/datasets/benchmarks/UrbanSemLab/Default.aspx) - 5cm GSD aerial imagery, 6 classes
 

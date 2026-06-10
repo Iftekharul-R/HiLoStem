@@ -20,7 +20,7 @@ Our train/val/test splits for all three datasets are available on IEEE DataPort:
 The package includes:
 - ISPRS Potsdam: Official splits (train: 17 images, val: 7 images, test: 14 images)
 
-- ## Code
+## Code
 
 The full training and evaluation code and the pretrained models will be released after paper publication.
 
